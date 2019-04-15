@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## App setup
+
 Create file AppDetails.js inside folder src->helpers
 
 In AppDetails.js, export variables AppId and SecretId, which are to be used for authentication again facebook.
