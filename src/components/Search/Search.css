@@ -1,0 +1,15 @@
+.content-holder {
+    height: calc(100% - 28px);
+}
+
+.place-list {
+    height: calc(100% - 19px);
+    overflow-y: auto;
+}
+
+.loader {
+    margin : auto;
+    text-align: center;
+    align-items: center;
+}
+
